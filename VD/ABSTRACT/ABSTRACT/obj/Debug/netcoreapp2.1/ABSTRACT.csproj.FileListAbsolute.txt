@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\bin\Debug\netcoreapp2.1\ABSTRACT.deps.json
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\bin\Debug\netcoreapp2.1\ABSTRACT.runtimeconfig.json
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\bin\Debug\netcoreapp2.1\ABSTRACT.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\bin\Debug\netcoreapp2.1\ABSTRACT.dll
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\bin\Debug\netcoreapp2.1\ABSTRACT.pdb
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\obj\Debug\netcoreapp2.1\ABSTRACT.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\obj\Debug\netcoreapp2.1\ABSTRACT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\obj\Debug\netcoreapp2.1\ABSTRACT.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\obj\Debug\netcoreapp2.1\ABSTRACT.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\obj\Debug\netcoreapp2.1\ABSTRACT.dll
+C:\Users\Admin\source\repos\ABSTRACT\ABSTRACT\obj\Debug\netcoreapp2.1\ABSTRACT.pdb
